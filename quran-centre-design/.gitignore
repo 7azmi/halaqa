@@ -1,0 +1,20 @@
+# Database files
+*.db
+*.sqlite
+*.psql
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
